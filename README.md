@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="Resources/steganausorus.png" alt="Logo" width="200" height="113">
+  <img src="Steganausorus/Resources/steganausorus.png" alt="Logo" width="200" height="113">
 
   <h3 align="center">Steganausorus</h3>
 
