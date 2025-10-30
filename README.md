@@ -127,7 +127,7 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 
 Damien  - contact@rootsense.fr
 
-Project Link: [https://github.com/0xD4M13N/PasswordStrengthChecker](https://github.com/0xD4M13N/PasswordStrengthChecker)
+Project Link: [https://github.com/0xD4M13N/Steganausorus](https://github.com/0xD4M13N/Steganausorus)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
